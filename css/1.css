@@ -137,6 +137,9 @@ li {
     width: 15%; /* Resize as needed */
     max-width: 400px;
     height: auto; /* Keeps the aspect ratio */
+    margin:0;
+    padding:0;
+    padding-top:5px;
 }
 .clearer {
 	clear:both;
