@@ -134,7 +134,7 @@ li {
 .logo {
     display: block;
     margin: auto;
-    width: 50%; /* Resize as needed */
+    width: 15%; /* Resize as needed */
     max-width: 400px;
     height: auto; /* Keeps the aspect ratio */
 }
