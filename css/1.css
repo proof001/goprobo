@@ -132,8 +132,9 @@ li {
 
 }
 .logo {
-	float:right;
-	margin-right:30px;
+    width: 50%; /* Adjust size as needed */
+    max-width: 600px;
+    height: auto; /* Keeps the aspect ratio */
 }
 .clearer {
 	clear:both;
