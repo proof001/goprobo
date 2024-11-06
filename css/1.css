@@ -134,7 +134,6 @@ li {
 .logo {
     width: 25%; /* Adjust size as needed */
     max-width: 100px;
-    height: auto; /* Keeps the aspect ratio */
 }
 .clearer {
 	clear:both;
