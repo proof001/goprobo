@@ -132,8 +132,8 @@ li {
 
 }
 .logo {
-    width: 50%; /* Adjust size as needed */
-    max-width: 600px;
+    width: 25%; /* Adjust size as needed */
+    max-width: 300px;
     height: auto; /* Keeps the aspect ratio */
 }
 .clearer {
