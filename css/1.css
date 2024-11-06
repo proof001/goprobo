@@ -132,8 +132,11 @@ li {
 
 }
 .logo {
-    width: 25%; /* Adjust size as needed */
-    max-width: 100px;
+    display: block;
+    margin: auto;
+    width: 50%; /* Resize as needed */
+    max-width: 400px;
+    height: auto; /* Keeps the aspect ratio */
 }
 .clearer {
 	clear:both;
